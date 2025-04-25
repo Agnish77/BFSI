@@ -1,0 +1,15 @@
+langchain 
+python-dotenv
+langchain_community
+sentence_transformers
+ipykernel
+bs4
+langchain_huggingface
+pypdf
+langchain-text-splitters
+langchain_chroma
+faiss-cpu
+pandas
+langchain_core
+langchain_groq
+tf-keras
